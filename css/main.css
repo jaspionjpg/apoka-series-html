@@ -1,0 +1,88 @@
+.color-black {
+    color: black;
+}
+.color-white {
+    color: white;
+}
+.color-team {
+    color: #67676d;
+}
+.corpo {
+    background-color: #f3f3f3;
+}
+.header {
+    background: #e10600
+}
+.title-header {
+    margin: 0.5em;
+    font-weight: bold;
+    color: white;
+}
+.logo-bar {
+    margin: 5em; 
+}
+.button-login {
+    background-color: black;
+    color: white;
+    margin-right: 2em;
+}
+.button-login:hover{
+    color: #e10600
+}
+.driver {
+    bottom: 0%;
+}
+.podium-camps {
+    padding: 25px;
+}
+.driver-picture-champ {
+    border-radius: 10px;
+    max-width: 100%;
+    max-height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.driver-picture {
+    border-radius: 10px;
+    max-width: 100%;
+    max-height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.driver-names{
+    color: white;
+    border-radius: 0 0 15px 15px;
+    padding: 25px;
+    background-color:#212529;
+}
+.driver-name {
+    font-size: 1em;
+    font-weight: 800;
+    line-height: 1.5;
+}
+.driver-nick {
+    font-size: 1.5em;
+    font-weight: 800;
+}
+.driver-picture img{
+    border-radius: 15px 15px 0 0;
+}
+
+.tabela-pontuacao {
+    padding: 25px;
+}
+.conteudo-botao-pontuacao {
+    float: left;
+}
+.linha-team {
+    font-size: 1.5em;
+    font-weight: 800;
+}
+.numero-posicao {
+    font-size: 1.3em;
+    font-weight: 800;
+}
+.conteudo-botao-direito {
+    padding: 3px;;
+    float: right;
+}
